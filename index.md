@@ -52,6 +52,7 @@ Thanks goes to these wonderful people who have contributed to our [GitHub reposi
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
